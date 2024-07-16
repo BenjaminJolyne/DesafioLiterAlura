@@ -13,5 +13,9 @@ las funcionalidades de la consola son:
 6. Mostrar el top 5 de libros más descargados.
 7. Mostrar estadísticas generales de la base de dato de los libros.
 
-Para finalizar, la insignifa del desafío :D
+Para finalizar, la insignia del desafío :D
 💝 
+
+
+
+![badge literalura](https://github.com/user-attachments/assets/d983a6e2-c451-4793-85b8-365ce00c38af)
